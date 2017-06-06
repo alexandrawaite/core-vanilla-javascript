@@ -18,9 +18,9 @@ Your objectives for the day are to achieve:
 - [X] Complete "Introducing JavaScript"
 - [X] Complete "Storing and Tracking Information with Variables"
 - [X] Complete "Working With Numbers"
-- [ ] Complete "Making Decisions with Conditional Statements"
-- [ ] Complete "Creating Reusable Code with Functions"
-- [ ] Read about ["Truthy"](https://developer.mozilla.org/en-US/docs/Glossary/Truthy) and ["Falsey"](https://developer.mozilla.org/en-US/docs/Glossary/Falsy) values in this article: https://j11y.io/javascript/truthy-falsey/
+- [X] Complete "Making Decisions with Conditional Statements"
+- [X] Complete "Creating Reusable Code with Functions"
+- [X] Read about ["Truthy"](https://developer.mozilla.org/en-US/docs/Glossary/Truthy) and ["Falsey"](https://developer.mozilla.org/en-US/docs/Glossary/Falsy) values in this article: https://j11y.io/javascript/truthy-falsey/
 
 ### Stretch
 

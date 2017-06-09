@@ -44,28 +44,28 @@ Today your objectives are to put in practice the concepts you learned yesterday.
 ### Plan
 
 - [X] Complete the last 5 tasks of [Objects Basics Tutorial](https://learn.javascript.info/object)
-  - [X] Link to your solution here (jsbin, gist, or a js file in this repo)
+  - [X] Link to your solution here: [Object Tasks](https://github.com/alexandrawaite/core-vanilla-javascript/blob/master/js-info-exercises/object-tasks.js)
 - [X] Complete the last 5 tasks of [Arrays Tutorial](https://learn.javascript.info/array)
- - [X] Link to your solution here
+ - [X] Link to your solution here: [Array Tasks](https://github.com/alexandrawaite/core-vanilla-javascript/blob/master/js-info-exercises/array-tasks.js)
 - [X] Complete the last 5 tasks of [Array Methods](https://learn.javascript.info/array-methods)
- - [X] Link to your solution here
+ - [X] Link to your solution here: [Array Method Tasks](https://github.com/alexandrawaite/core-vanilla-javascript/blob/master/js-info-exercises/array-method-tasks.js)
 - [X] Complete the [Learn JS Basics tutorial](http://www.learn-js.org/en/Welcome)
 - [X] Complete the [Learn JS Objects tutorial](http://www.learn-js.org/en/Object_Oriented_JavaScript)
 
 *These next 3 steps are part of [Front End Masters JS Course](https://frontendmasters.com/courses/js-fundamentals-to-functional/). You might need to watch the videos and part of the course to make it through. Reach out to staff for an invite code if you don't already have an account.*
 
 - [X] Complete the [Array Exercises](https://github.com/bgando/array-exercises)
-  - [X] Link to your solution here
+  - [X] Link to your solution here: [Array Exercises](https://github.com/alexandrawaite/core-vanilla-javascript/blob/master/front-end-masters-exercises/array-exercises.js)
 - [X] Complete the [Function Exercises](https://github.com/bgando/function-exercises)
-  - [X] Link to your solution here
+  - [X] Link to your solution here: [Function Exercises](https://github.com/alexandrawaite/core-vanilla-javascript/blob/master/front-end-masters-exercises/function-exercises.js)
 - [X] Complete the [Object Exercises](https://github.com/bgando/object-exercises)
-  - [X] Link to your solution here
+  - [X] Link to your solution here: [Object Exercises](https://github.com/alexandrawaite/core-vanilla-javascript/blob/master/front-end-masters-exercises/object-exercises.js)
 
 - Browse in the terminal to the `js-assessment` folder in this repo.
 - Run `npm install` and `npm start`, then goto `http://127.0.0.1:4444/` in your browser.
 - You should see a bunch of failing tests
-- [ ] Update `js-asessment/app/flowControl.js` to make the section's tests pass
-- [ ] Update `js-asessment/app/logicalOperators.js` to make the section's tests pass
+- [X] Update `js-asessment/app/flowControl.js` to make the section's tests pass
+- [X] Update `js-asessment/app/logicalOperators.js` to make the section's tests pass
 - [ ] Update `js-asessment/app/logicalNumbers.js` to make the section's tests pass
 
 
@@ -82,15 +82,15 @@ Today your objectives are to put in practice the concepts you learned yesterday.
 
 Let's test our understanding by working on some Koans.
 
-*Note: It's pretty easy to make these test pass. What isn't easy is to make sure you undertand WHY they are passing, and don't move on to the next one until you do*
+*Note: It's pretty easy to make these test pass. What isn't easy is to make sure you understand WHY they are passing, and don't move on to the next one until you do*
 
 *Remember: Update this file, and commit your repo, and push to github after every step*
 
 - In your forked repo, find the `javascript-koans` sub directory.
 - Find `KoansRunner.html` and open it in a browser
-- [ ] Edit AboutObjects.js to make all tests pass
-- [ ] Edit AboutFunctions.js to make all tests pass
-- [ ] Edit AboutArrays.js to make all tests pass
+- [X] Edit AboutObjects.js to make all tests pass
+- [X] Edit AboutFunctions.js to make all tests pass
+- [X] Edit AboutArrays.js to make all tests pass
 - [ ] Edit AboutApplyingWhatWeHaveLearnt.js to make all tests pass
 - [ ] Write all 10 functions described in [/challenges/10exercises.js](/challenges/10exercises.js)
 

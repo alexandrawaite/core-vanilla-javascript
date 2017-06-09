@@ -91,12 +91,12 @@ Let's test our understanding by working on some Koans.
 - [X] Edit AboutObjects.js to make all tests pass
 - [X] Edit AboutFunctions.js to make all tests pass
 - [X] Edit AboutArrays.js to make all tests pass
-- [ ] Edit AboutApplyingWhatWeHaveLearnt.js to make all tests pass
+- [X] Edit AboutApplyingWhatWeHaveLearnt.js to make all tests pass
 - [ ] Write all 10 functions described in [/challenges/10exercises.js](/challenges/10exercises.js)
 
 Ok, on for some more drills.
 
-- [ ] Sign up for an [edabit](http://edabit.com) account.
+- [X] Sign up for an [edabit](http://edabit.com) account.
 - [ ] Solve all 10 array challenges linked in [/challenges/edabit-arrays.js](/challenges/edabit-arrays.js) and commit your solutions to the file
 
 - Browse in the terminal to the `js-assessment` folder in this repo.
